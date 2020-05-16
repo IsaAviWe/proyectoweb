@@ -1,0 +1,63 @@
+<HTML>
+<HEAD>
+<TITLE> PALETAS
+</TITLE>
+<link rel="shortcut icon" href=".jpg"/>
+<BODY>
+<BODY BGCOLOR=Pink>
+<CENTER>
+<img src="logo.jpg" width="850" height="300" HSPACE="10" VSPACE="10">
+<BR>
+<FONT COLOR=Crimson FACE=Bell MT SIZE=5><EM>
+La vida es como un helado disfrutala antes de que se derrita
+</FONT></EM>
+<BR>
+<BR>
+<TABLE>
+<TR>
+<TD bgcolor=MediumVioletRed alingn=center><A href=historia.html><font color=white> Historia </font></A></TD>
+<TD bgcolor=Black alingn=center><A href=servivcio.html><font color=white> Servicio </font></A></TD>
+<TD bgcolor=Indigo alingn=center><A href=productos.html><font color=white> Productos </font></A></TD>
+</TR>
+</TABLE>
+<FONT COLOR=BLACK FACE=Bell MT>
+<P aling=LEFT>
+Como todos los seres humanos del planeta alguna vez hemos probado algun producto helado y no hemos olvidado su sabor, sin embargo tambien ha ayudado en muchas facetas por ejemplo cunado intentas mejorar tu humor, cuando te sientes triste, hemos utilizado el helado o paleta como un remedio comun, pero este tiene un gran historial...
+<img src="123.gif" width="450" height="250" HSPACE="10" VSPACE="10">
+<BR>
+<BR>
+<FONT COLOR=BLACK FACE=Bell MT>
+<CENTER>
+Esta paleteria tiene historia, compromiso, cariño, unión, y un deleitoso sabor que muchos sin duda no lo han pasado por alto, pero porque pasa esto, investigando se revelo que los productos son de origen natural seleccionados cuidadosamente para su uso con tal de demostrar la calidad del producto, sin embargo este no cuenta por el momento con una ubicacion pero sigue en funcionamineto ofreciendonos sin duda alguna lo mejor...
+<img src="222.gif" width="250" height="250" HSPACE="10" VSPACE="10"><img src="333.gif" width="250" height="250" HSPACE="10" VSPACE="10">
+<BR>
+<BR>
+<BR>
+<FONT COLOR=BLACK FACE=Bell MT><CENTER>
+<img src="444.png" width="50" height="50" HSPACE="10" VSPACE="10">=Chepepe Avila   <img src="555.png" width="50" height="50" HSPACE="10" VSPACE="10">=9541353064<BR>
+<BR>
+<BR>
+<img src="666.jpg" width="400" height="300" HSPACE="10" VSPACE="10">
+<br>
+</HEAD>
+</CENTER>
+</BODY>
+</HTML>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
